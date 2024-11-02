@@ -52,9 +52,9 @@ The applications are hosted on two sub-networks or domains of the Network Server
 - The avionics domain (NSS AVNCS)
 - The flight operations domain (FLT OPS)
 
-!!! note "OIT in the A380X"
-At the time of writing this document, the OIT is not yet implemented in the A380X.
-Many of its features can be found in the flyPad EFB next to it.
+!!! warning "OIT in the A380X"
+  At the time of writing this document, the OIT is not yet implemented in the A380X.
+  Many of its features can be found in the flyPad EFB next to it.
 
 ## 4. Sidestick
 
